@@ -1,0 +1,1 @@
+{"version":3,"file":"truck.js","sourceRoot":"","sources":["../../src/class/truck.ts"],"names":[],"mappings":";;;;;;;;;AAAA,yCAAuC;AAIhC,IAAM,KAAK,GAAX,MAAM,KAAK;IACd,KAAK;QACD,OAAO,CAAC,GAAG,CAAC,mBAAmB,CAAC,CAAA;IACpC,CAAC;IACD,IAAI;QACA,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAClC,CAAC;CACJ,CAAA;AAPY,sBAAK;gBAAL,KAAK;IADjB,IAAA,sBAAU,GAAE;GACA,KAAK,CAOjB"}
