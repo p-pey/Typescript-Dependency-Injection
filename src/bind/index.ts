@@ -1,6 +1,6 @@
 import "reflect-metadata";
-import { Vehicle } from "./class/vehicle";
-import { Container } from "./container";
+import { Vehicle } from "./bind/class/vehicle";
+import { Container } from "./bind/container";
 
 
 
