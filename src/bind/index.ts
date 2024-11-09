@@ -1,9 +1,9 @@
 import "reflect-metadata";
-import { Vehicle } from "./bind/class/vehicle";
-import { Container } from "./bind/container";
+import { Vehicle } from "../class/vehicle";
+import { Container } from "./container";
 
 
 
-const VehicleClass = Container.resolve(Vehicle);
+const VehicleClass = Container.get(Vehicle);
 
 VehicleClass.drive();

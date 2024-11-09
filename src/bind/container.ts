@@ -1,9 +1,9 @@
 import { Container as DIContainer } from "inversify";
-import { Car } from "./class/car";
-import { Motor } from "./class/motor";
-import { Truck } from "./class/truck";
-import { TYPES } from "./class/types";
-import { Vehicle } from "./class/vehicle";
+import { Car } from "../class/car";
+import { Motor } from "../class/motor";
+import { Truck } from "../class/truck";
+import { TYPES } from "../class/types";
+import { Vehicle } from "../class/vehicle";
 
 
 export const Container = new DIContainer();
